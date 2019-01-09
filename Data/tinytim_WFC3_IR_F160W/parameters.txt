@@ -1,0 +1,7 @@
+Camera |WFC3 IR channel
+Pixel Position|0 0
+Filter|F160W
+Spectrumtype|Blackbody
+Spectrumvalue|3000
+PSF diameter|3 [arcsec]
+Focus|0.0 [microns secondary mirror despace]
